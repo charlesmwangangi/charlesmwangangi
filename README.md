@@ -29,6 +29,16 @@ I'm a Kenyan website developer building my version of the digital world one step
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+#
+
+
+
+
+#
+
+
+
+#
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
