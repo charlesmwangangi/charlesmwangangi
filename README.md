@@ -1,8 +1,8 @@
-# 🏄‍♂️ Charles Mwangangi
+# 🏄‍♂️ CHARLES MWANGANGI
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm a Kenyan website developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am looking forward to publish web design content on my YouTube channel "[fbear_5][youtube]" hoping to reach more than 500k subscribers.
+I'm a Kenyan website developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am looking forward to publish web design content on my YouTube channel "[www.youtube.com/fbear_5][youtube]" hoping to reach more than 500k subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fbear_5?sub_confirmation=1">
